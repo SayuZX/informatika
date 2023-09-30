@@ -1,0 +1,16 @@
+[
+  {
+    "judul": "website portofolio",
+    "urlGambar": "Project2",
+    "deskripsi": "<p>WEbsite portofolio yang dimana Desain nya terinspirasi dari web <a href='https://sko.dev/' class='link'>sko.dev</a></p>",
+    "urlDemo": "https://hamzahxou.github.io/",
+    "urlDownload": "https://github.com/Hamzahxou/Hamzahxou.github.io"
+  },
+  {
+    "judul": "website Desain",
+    "urlGambar": "Project1",
+    "deskripsi": "<p>gunakan dengan benar semangat buat projectnya 🫡<p>",
+    "urlDemo": "https://hamzahxou.github.io/ui/",
+    "urlDownload": "https://github.com/Hamzahxou/ui/archive/refs/heads/main.zip"
+  }
+]

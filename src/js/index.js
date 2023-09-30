@@ -86,4 +86,4 @@ if (window.innerWidth <= 576) {
     tampil = setTimeout(show, 100);
   });
 }
-document.querySelector(".loadingspinForum").classList.add("none");
+
